@@ -48,4 +48,4 @@ For a deep dive into the functionalities and setup, refer to our [documentation]
 - Viraj harshadbhai Patel - vhpatel@syr.edu
 - Aishwarya Nadkarni - ainadkar@syr.edu
 - Mosali Abhinav Reddy - amosali@syr.edu
-- Project Link: [https://github.com/Rushi264/ShiftStreamline-Application]([https://github.com/your_username/ShiftStreamline-Application](https://github.com/Rushi264/Residential-Security-Aid-ShiftStreamline-Application-)https://github.com/Rushi264/Residential-Security-Aid-ShiftStreamline-Application-)
+- Project Link: [https://github.com/Rushi264/ShiftStreamline-Application]([https://github.com/users/Rushi264/projects/1/views/1](https://github.com/Rushi264/Residential-Security-Aid-ShiftStreamline-Application-)https://github.com/Rushi264/Residential-Security-Aid-ShiftStreamline-Application-)
